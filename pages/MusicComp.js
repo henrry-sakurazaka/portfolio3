@@ -1,7 +1,7 @@
 "use client";
 
 import AudioComponent from './AudioComponent';
-import { getCurrentURL } from './AudioComponent';
+// import { getCurrentURL } from './AudioComponent';
 
 
 const MusicComp = () => {
